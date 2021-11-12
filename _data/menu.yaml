@@ -1,0 +1,27 @@
+- title: "Home"
+  href: "/home/"
+
+- title: "Gallery"
+  href: "/gallery/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Publications"
+  href: "/publications/"
+
+- title: "Teaching"
+  href: "/teaching/"
+  subcategories:
+    - subtitle: "Idiap UniDistance Master in AI - m03 – Introduction to Signal Processing"
+      subhref: "/teaching/mai-M03-introduction-to-signal-processing/"
+    - subtitle: "Idiap UniDistance Master in AI - m07 – Introduction to Image Processing and Computer Vision"
+      subhref: "/teaching/mai-M07-introduction-to-image-processing-and-computer-vision/"
+    - subtitle: "EPFL EE-311 – Apprentissage et intelligence artificielle"
+      subhref: "/teaching/ee311-apprentissage-et-intelligence-artificielle/"
+
+- title: "Software"
+  href: "/software/"
+
+- title: "Contact"
+  href: "/contact/"
