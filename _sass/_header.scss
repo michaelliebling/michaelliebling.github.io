@@ -168,7 +168,7 @@ z-index:999;
 
 
 
-    @include media-query($on-palm) {
+    @include media-query($on-phone) {
         position: absolute;
         top: 9px;
         right: 30px;
